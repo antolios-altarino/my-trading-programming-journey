@@ -6,7 +6,7 @@ Each exercise is completed by fixing the code and passing its checks.
 
 ## 🧩 Exercises
 
-**0 / 97 completed (0%)**
+**16 / 94 completed (0%)**
 
 ### 00. Intro
 
@@ -26,15 +26,15 @@ Each exercise is completed by fixing the code and passing its checks.
 
 * [x] functions1
 * [x] functions2
-* [ ] functions3
-* [ ] functions4
-* [ ] functions5
+* [x] functions3
+* [x] functions4
+* [x] functions5
 
 ### 03. If
 
-* [ ] if1
-* [ ] if2
-* [ ] if3
+* [x] if1
+* [x] if2
+* [x] if3
 
 ### 04. Primitive Types
 
