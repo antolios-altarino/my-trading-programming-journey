@@ -33,6 +33,7 @@ mod my_module {
 fn main() {
     // You can optionally experiment here.
 }
+pub fn transformer(input: String)
 
 #[cfg(test)]
 mod tests {
